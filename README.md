@@ -37,13 +37,6 @@ Docker, Docker Compose, Nginx
 
 ---
 
-## 📫 Contact
-- Telegram: https://t.me/your_username
-
-👉 [View Project](#)
-
----
-
 ## 📫 Contact me
 - Telegram: https://t.me/romanmatveev1201
 - Open to freelance projects
